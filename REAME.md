@@ -1,6 +1,4 @@
-Hola desde mi pc!
-
-Wanda Rocha !!
-Cintia Reyna
-Andrea Reyna!
-Hebert Anze!
++ Wanda Rocha.
++ Cintia Reyna.
++ Andrea Reyna
++ Hebert Anze.
